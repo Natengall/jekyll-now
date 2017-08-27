@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! I'm Allen.
+I am a full-stack software engineer based in Boston, MA. Currently have a passion for event driven architecture and data streams. When I'm not hacking away, I like to snowboard if the season's right, and sail along the Charles River if the season's righter.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[natengall@gmail.com](mailto:natengall@gmail.com)
